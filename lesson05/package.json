@@ -1,0 +1,23 @@
+{
+  "name": "lesson05",
+  "version": "1.0.0",
+  "description": "",
+  "main": "program.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manicmonkey/nodeschool_stream-adventure.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manicmonkey/nodeschool_stream-adventure/issues"
+  },
+  "homepage": "https://github.com/manicmonkey/nodeschool_stream-adventure#readme",
+  "dependencies": {
+    "split": "^1.0.0",
+    "through2": "^2.0.0"
+  }
+}
